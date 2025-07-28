@@ -1,0 +1,29 @@
+# Applications
+
+## IPython
+profile_default/
+ipython_config.py
+
+## Jupyter Notebook
+.ipynb_checkpoints
+
+## Mac OS-specific storage files
+.DS_Store
+
+## VS Code
+.vscode/
+
+## test cache
+manual_test/
+
+# Python
+
+**/__pycache__
+
+## pytest
+.pytest_cache/
+
+# Project specific
+
+*.gpx
+activity_data/
